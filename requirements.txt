@@ -1,0 +1,3 @@
+pyrogram==2.0.106
+structlog==24.4.0
+pystyle==2.9
